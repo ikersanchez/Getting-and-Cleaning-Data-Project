@@ -8,7 +8,7 @@ Getting-and-Cleaning-Data-Project
 -	Tidy dataset should be created in your current working directory as "Submit.txt"
 
 ##Assumptions
--	Data downloaded and extracted on your working directory
+-	Data downloaded and extracted on your working directory https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 -	Extracted folder renamed to "UCI_HAR_DATASET" 
 -	 Test folder, train folder, "activity_labels.txt" and "features.txt" are available in "UCI_HAR_DATASET".
 
